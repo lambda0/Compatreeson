@@ -8,5 +8,7 @@ https://www.bilibili.com/video/BV1H64y1Z7Jq
 https://www.bilibili.com/video/BV1Zv411q73L
 
 # How To Play?
-...
-Coming soon!
+Well, this is hard.
+
+# Energy
+You can click the "Increase Your Energy By 1 Electron Volt" button to increase your energy.
