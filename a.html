@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>a</title>
+    <script>var energy = 0;</script>
+    <style>
+        #b{display: none;}
+    </style>
+</head>
+<body>
+    <div id="a">
+        You Have
+        <span id="num">0</span>
+         eV of Energy<br>
+        <button onclick="energy++;document.getElementById('num').innerHTML=energy;">Increase Your Energy By 1 Electron Volt</button><br>
+        <button onclick="document.getElementById('a').style.display='none';document.getElementById('b').style.display='block';">DM</button>
+    </div>
+    <div id="b">
+        <button onclick="document.getElementById('b').style.display='none';document.getElementById('a').style.display='block';">&lt;</button><br>
+        You Have 0 vg Dark Matter
+    </div>
+</body>
+</html>
