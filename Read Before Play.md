@@ -10,5 +10,10 @@ https://www.bilibili.com/video/BV1Zv411q73L
 # How To Play?
 Well, this is hard.
 
-# Energy
+## Energy
 You can click the "Increase Your Energy By 1 Electron Volt" button to increase your energy.
+
+## Dark Matter
+Click the "DM" button to open the Dark Matter interface.
+
+Prestige to get some Dark Matter!
